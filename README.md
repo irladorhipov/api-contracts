@@ -1,3 +1,2 @@
-# api-contracts
-install Task
-task generate
+# install Task
+# task generate
